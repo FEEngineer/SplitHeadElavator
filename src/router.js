@@ -28,3 +28,12 @@ class Router {
         this.policy = policy;
     }
 }
+
+/**
+ * all routers have fixed routing table
+ */
+class ElevatorReportRouter extends Router {
+    route(source) {
+        
+    }
+}
