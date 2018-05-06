@@ -1,4 +1,4 @@
-class Elavator {
+class Elevator {
     constructor() {
 
     }
